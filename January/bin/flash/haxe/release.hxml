@@ -1,9 +1,0 @@
--main ApplicationMain 
--lib nme
--lib HaxeFlixel
--cp Source
--D nme_install_tool
--swf-version 11
--swf9 bin/flash/bin/MePlatformer.swf
--swf-header 800:500:30:FFFFFF
--cp bin/flash/haxe
